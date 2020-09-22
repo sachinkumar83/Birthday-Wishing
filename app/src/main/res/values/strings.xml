@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Birthday Wishing</string>
+    <string name="enter_the_name">Enter the Name</string>
+
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="Create_birthday_card">create birthday card</string>
+    <string name="happy_birthday">Happy Birthday</string>
+</resources>
